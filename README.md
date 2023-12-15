@@ -139,9 +139,16 @@ Code:
 </html>
 ```
 OUTPUT:
+
+
 ![Alt text](<Screenshot (155).png>)
 
 
+
+
 RESULT:
+
+
+
 Thus a website to display the cover page design of a book was successfully created.
 
